@@ -12,7 +12,7 @@ public abstract class Employee
     {
         Console.WriteLine($"Employee Name: {_lname}, {_fname}");
         Console.WriteLine($"Employee ID: {_employeeId}");
-        Console.WriteLine($"Date Hired:{_dateHired}");
+        Console.WriteLine($"Date Hired: {_dateHired}");
         Console.WriteLine($"Job Title: {_position}");
         Console.WriteLine("");
     }
