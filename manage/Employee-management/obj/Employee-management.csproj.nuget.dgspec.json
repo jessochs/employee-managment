@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\manage.csproj": {}
+    "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\Employee-management\\Employee-management.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\manage.csproj": {
+    "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\Employee-management\\Employee-management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\manage.csproj",
-        "projectName": "manage",
-        "projectPath": "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\manage.csproj",
+        "projectUniqueName": "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\Employee-management\\Employee-management.csproj",
+        "projectName": "Employee-management",
+        "projectPath": "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\Employee-management\\Employee-management.csproj",
         "packagesPath": "C:\\Users\\jfpur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\obj\\",
+        "outputPath": "C:\\Users\\jfpur\\OneDrive\\Desktop\\employee-managment\\manage\\Employee-management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jfpur\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -10,12 +10,12 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net7.0/manage.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/MSBuild.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "console": "internalConsole"
-        },
+        }
         
 
 
