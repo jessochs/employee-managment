@@ -1,10 +1,10 @@
 # Overview
 
-This software includes five classes that use inheritance and polymorphism to help the code flow better. The Employee class is the super class that contains the variables and methods that will be used in the other two sub classes, like the personal employee infomation and a method to display said information. The Add class is responsible for adding employees to the system and getting and setting the variables from the super class. The Edit class takes user input, converts it to an integer, and uses the integer as the list index number to remove an employee from the list. THe Information class is another sub class that gets employee personal information. The program class reads and displays this information via a menu and user input.
+This software includes five classes that use inheritance and polymorphism to help the code flow better. The Employee class is the super class that contains the variables and methods that will be used in the other two sub classes, like the personal employee infomation and a method to display said information. The Add class is responsible for adding employees to the system and getting and setting the variables from the super class. The Edit class takes user input, converts it to an integer, and uses the integer as the list index number to remove an employee from the list. The Information class is another sub class that gets employee personal information. The program class reads and displays this information via a menu and user input.
 
 The purpose of this software is to be able to add and edit a list of employees. Anyone that has been part of a business knows that employee information is always changing, whether they're new employees that were just hired or employees that are leaving, there needs to be a way to organize, use, and edit that information. 
 
-## Add youtube link
+[Software Demo Video](https://youtu.be/PVETDSszlEk)
 
 # Development Environment
 
