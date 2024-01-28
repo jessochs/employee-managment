@@ -2,6 +2,7 @@ using System;
 using System.Data;
 
 public class Information : Employee
+// this is another sub class of Employee. It gets information (like tax info) for each employee
 {
     private string _street;
     private string _city;

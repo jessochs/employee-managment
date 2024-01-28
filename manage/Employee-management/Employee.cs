@@ -2,6 +2,7 @@ using System;
 
 public abstract class Employee
 {
+    // this is the super class. Anything in here can be used in the other sub classes.
     protected string _fname;
     protected string _lname;
     protected string _employeeId;
@@ -9,17 +10,9 @@ public abstract class Employee
     protected string _position; 
 
 
-    // public void  Display()
-    // {
-    //     Console.WriteLine($"Employee Name: {_lname}, {_fname}");
-    //     Console.WriteLine($"Employee ID: {_employeeId}");
-    //     Console.WriteLine($"Date Hired: {_dateHired}");
-    //     Console.WriteLine($"Job Title: {_position}");
-    //     Console.WriteLine("");
-    // }
 
     public abstract void Confirmation();
-
+    // abstract method will be changed and used in all of the sub classes
     
 }
 
