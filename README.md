@@ -7,6 +7,7 @@ This software includes five classes that use inheritance and polymorphism to hel
 The purpose of this software is to be able to add and edit a list of employees. Anyone that has been part of a business knows that employee information is always changing, whether they're new employees that were just hired or employees that are leaving, there needs to be a way to organize, use, and edit that information. 
 
 [Software Demo Video](https://youtu.be/PVETDSszlEk)
+
 [Updated Video](https://youtu.be/MpibRgfl5jM)
 
 # Development Environment
