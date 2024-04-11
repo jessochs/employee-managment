@@ -1,0 +1,15 @@
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\bin\Debug\net7.0\Employee-management.exe
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\bin\Debug\net7.0\Employee-management.deps.json
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\bin\Debug\net7.0\Employee-management.runtimeconfig.json
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\bin\Debug\net7.0\Employee-management.dll
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\bin\Debug\net7.0\Employee-management.pdb
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\Employee-management.csproj.AssemblyReference.cache
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\Employee-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\Employee-management.AssemblyInfoInputs.cache
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\Employee-management.AssemblyInfo.cs
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\Employee-management.csproj.CoreCompileInputs.cache
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\Employee-management.dll
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\refint\Employee-management.dll
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\Employee-management.pdb
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\Employee-management.genruntimeconfig.cache
+C:\Users\jfpur\OneDrive\Desktop\employee-managment\manage\Employee-management\obj\Debug\net7.0\ref\Employee-management.dll

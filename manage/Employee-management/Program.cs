@@ -23,9 +23,21 @@ internal class Program
         em.Add(emp2);
         em.Add(emp3);
 
+        Product p1 = new Product("Wizard Wands", "ww334", 500, "April 10, 2024");
+        Product p2 = new Product("Berty Bots Every FLavor Beans", "ww311", 200, "April 24, 2024");
+        Order o1 = new Order();
+        Order o2 = new Order();
+
+        
+        o2.IncomingProduct(p2);
+
+
+
+
         Edit edit1 = new Edit();
 
-        Console.WriteLine("Welcome to Employee Management");
+        Console.WriteLine("");
+        Console.WriteLine("Welcome to Business Management");
         Console.WriteLine("");
 
         bool option = false;
@@ -36,7 +48,9 @@ internal class Program
             Console.WriteLine("1. Add and employee");
             Console.WriteLine("2. Delete an employee");
             Console.WriteLine("3. Display all employees");
-            Console.WriteLine("4. Quit");
+            Console.WriteLine("4. Display incoming orders");
+            Console.WriteLine("5. Display outgoing orders");
+            Console.WriteLine("6. Quit");
             Console.WriteLine("Please select one of the following:");
             string choice = Console.ReadLine();
             Console.WriteLine("");
@@ -65,10 +79,18 @@ internal class Program
                 break;
                 
                 case "4":
+                    o1.AddProduct(p1);
+                    break;
+                
+                case "5":
+                    o2.IncomingProduct(p2);
+                    break;
+                case "6":
+
                 return;
 
             }
         }
     }
 
-    }
+}
